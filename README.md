@@ -38,9 +38,13 @@ http://localhost:8501
 
 📁 Project Structure
 📁 AI-Resume-Analyzer/
+
    ├── app.py          ← Main application
+   
    ├── .env            ← Your secret API key (never shared)
+   
    ├── .gitignore      ← Hides .env from GitHub
+   
    └── README.md       ← You are here!
 
 🔒 Security
